@@ -1,10 +1,9 @@
 #!/usr/bin/env python
 
 from bottle import run, get
-from time import sleep, clock
+from time import clock
 from threading import Thread, currentThread
 import ev3dev.ev3 as ev3
-from sys import exit
 
 left_motor = ev3.LargeMotor('outB')
 right_motor = ev3.LargeMotor('outC')
