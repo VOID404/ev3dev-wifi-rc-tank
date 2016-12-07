@@ -10,9 +10,6 @@ Bottle - python http server `pip install bottle`
 
 ## robot
 It's [Track3r](http://www.lego.com/en-us/mindstorms/build-a-robot/track3r) with phone stand.
-![](photos/IMG_0847.png?raw=true "Front")
-![](photos/IMG_0848.png?raw=true "Right")
-![](photos/IMG_0849.png?raw=true "Back")
 
 ## setup
 Hardcoded values:
